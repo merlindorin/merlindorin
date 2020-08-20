@@ -12,10 +12,6 @@
   </samp>
 </p>
 
-<p align="center">
-  <i> Open to anything that can fit in a kube :sparkles: </i>
-</p>
-
 <br>
 
 <p align="center">
